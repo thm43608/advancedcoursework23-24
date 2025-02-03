@@ -1,0 +1,23 @@
+---
+title: "Advanced Placement Enrollment by District for 2023-24 School Year"
+format: html
+editor: visual
+---
+
+## Advanced Placement All Students
+
+The maps below highlight the percent of students enrolled in advanced coursework in KY. The percentages are calculated based on total advanced placement enrollment divided by the total number of high school students.
+
+<iframe src="https://thm43608.github.io/advancedcoursework23-24/leaflet_map_allstudents.html" width="100%" height="600px" style="border: none;">
+
+</iframe>
+
+## Advanced Placement by Gender
+
+<iframe src="https://thm43608.github.io/advancedcoursework23-24/leaflet_map_femalestudents.html" width="100%" height="600px" style="border: none;">
+
+</iframe>
+
+<iframe src="https://thm43608.github.io/advancedcoursework23-24/leaflet_map_malestudents.html" width="100%" height="600px" style="border: none;">
+
+</iframe>
